@@ -6,8 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
   res.json({
-    message: "Hello World! Trùm DevOps tương lai đây!",
-    status: "Running smoothly 🚀",
+    message: "IU BIBI",
   });
 });
 
